@@ -1,7 +1,7 @@
 # Power-Bi-Project--- 
 Super Store 2024
 
-Object :
+Objective :
  owner of Super store wants us to help them crete a dashboard to track and analyse their online sales across the world.
 
  Insights :
